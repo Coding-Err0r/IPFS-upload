@@ -1,0 +1,23 @@
+{
+    "Name": "Dog #10",
+    "Description": "Hello world!!",
+    "image": "10.png",
+    "attributes": [
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Belly",
+            "value": "Belly"
+        },
+        {
+            "trait_type": "Pattern",
+            "value": "Myth Violet"
+        },
+        {
+            "trait_type": "Ring",
+            "value": "Orange Uncomon"
+        }
+    ]
+}

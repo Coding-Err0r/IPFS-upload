@@ -1,0 +1,23 @@
+{
+    "Name": "Dog #12",
+    "Description": "Hello world!!",
+    "image": "12.png",
+    "attributes": [
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Belly",
+            "value": "Belly Black"
+        },
+        {
+            "trait_type": "Pattern",
+            "value": "Standart White"
+        },
+        {
+            "trait_type": "Ring",
+            "value": "violet common"
+        }
+    ]
+}
